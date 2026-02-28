@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Custom-EPG-Generator">
-  <channel id="UK..SKY.SPORT..04">
-    <display-name lang="en">UK| SKY SPORT+ 04</display-name>
+<tv>
+  <channel id="UK--SKY-SPORT--04">
+    <display-name>UK| SKY SPORT+ 04</display-name>
   </channel>
-  <channel id="UK..SKY.SPORT..05">
-    <display-name lang="en">UK| SKY SPORT+ 05</display-name>
+  <channel id="UK--SKY-SPORT--05">
+    <display-name>UK| SKY SPORT+ 05</display-name>
   </channel>
-  <channel id="UK..SKY.SPORT..06">
-    <display-name lang="en">UK| SKY SPORT+ 06</display-name>
+  <channel id="UK--SKY-SPORT--06">
+    <display-name>UK| SKY SPORT+ 06</display-name>
   </channel>
-  <programme start="20260228121500 +0000" stop="20260228141500 +0000" channel="UK..SKY.SPORT..04">
+  <programme start="20260228121500 +0000" stop="20260228141500 +0000" channel="UK--SKY-SPORT--04">
     <title lang="en">Derby vs Blackburn</title>
-    <desc lang="en">Live Football: Derby vs Blackburn</desc>
-    <category lang="en">Sports</category>
+    <desc lang="en">Live Football</desc>
   </programme>
-  <programme start="20260228121500 +0000" stop="20260228141500 +0000" channel="UK..SKY.SPORT..05">
+  <programme start="20260228121500 +0000" stop="20260228141500 +0000" channel="UK--SKY-SPORT--05">
     <title lang="en">Leyton Orient vs Barnsley</title>
-    <desc lang="en">Live Football: Leyton Orient vs Barnsley</desc>
-    <category lang="en">Sports</category>
+    <desc lang="en">Live Football</desc>
   </programme>
-  <programme start="20260228121500 +0000" stop="20260228141500 +0000" channel="UK..SKY.SPORT..06">
+  <programme start="20260228121500 +0000" stop="20260228141500 +0000" channel="UK--SKY-SPORT--06">
     <title lang="en">Northampton vs Peterborough</title>
-    <desc lang="en">Live Football: Northampton vs Peterborough</desc>
-    <category lang="en">Sports</category>
+    <desc lang="en">Live Football</desc>
   </programme>
 </tv>
